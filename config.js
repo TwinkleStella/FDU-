@@ -5,8 +5,8 @@
 //  anon key 本来就是公开的，放在这里是安全的
 // =====================================================
 window.APP_CONFIG = {
-  SUPABASE_URL: "",
-  SUPABASE_ANON_KEY: "",
+  SUPABASE_URL: "https://github.com/TwinkleStella/fdu-/edit/main/config.js",
+  SUPABASE_ANON_KEY: "sb_publishable_M_r__stw7gGymsAd-xU2gA_ELrQSqV4",
 
   ORG_NAME: "复旦经院学术科创中心",
   APP_NAME: "学科资料库",
